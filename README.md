@@ -65,7 +65,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, subindo de nível a
   
   **[INSERT COIN TO CONTACT]**
   
-  [LinkedIn] www.linkedin.com/in/edgar-da-silva-almeida • [Email] edgarda.silvaalmeida@gmail.com
+  [LinkedIn] : www.linkedin.com/in/edgar-da-silva-almeida • [Email] : edgarda.silvaalmeida@gmail.com
 
 </div>
 
