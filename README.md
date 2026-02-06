@@ -19,11 +19,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por res
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+%5BEdgar%5D;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Dev+Python,+C,+Java+e+SQL;Focado+em+solu%C3%A7%C3%B5es+e+Data+Analytics" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
-
 **Outros**
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
