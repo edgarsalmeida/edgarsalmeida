@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Digital_rain_animation_medium_letters_shine.gif" width="100%" style="border-radius: 10px" alt="Matrix Rain">
+</div>
+
+<div align="center">
   <img src="https://i.pinimg.com/originals/20/25/76/20257602377b5db30da64d4b38340d85.gif" width="100%" style="border-radius: 10px" alt="Matrix Dark">
 </div>
 
