@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/eImrJKnOzbVX95AqzI/giphy.gif" width="100%" style="border-radius: 10px" alt="Matrix Rain Banner">
+  <img src="https://i.pinimg.com/originals/20/25/76/20257602377b5db30da64d4b38340d85.gif" width="100%" style="border-radius: 10px" alt="Matrix Dark">
 </div>
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Wake+up,+Neo...;Apenas+brincadeira!+Sou+Edgar+Almeida;Dev+ADS+%7C+Python+%7C+C+%7C+Java+%7C+SQL;Entrando+na+Matrix+dos+Dados" alt="Typing SVG Matrix Style" />
