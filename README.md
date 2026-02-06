@@ -8,8 +8,6 @@
 </div>
 <br>
 
-... (Seu texto "Sobre mim" aqui) ...
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FF1B6B?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-9D00FF?style=for-the-badge&logo=openjdk&logoColor=white">
