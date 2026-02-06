@@ -1,13 +1,27 @@
+
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Digital_rain_animation_medium_letters_shine.gif" width="100%" style="border-radius: 10px" alt="Matrix Rain">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px" alt="Cyberpunk Banner">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+Edgar+Almeida;Dev+ADS+%7C+Python+%7C+C+%7C+Java;Explorando+Dados+e+C%C3%B3digo" alt="Typing SVG Neon" />
+</div>
+<br>
+
+... (Seu texto "Sobre mim" aqui) ...
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FF1B6B?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-9D00FF?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=black">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarsalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsalmeida&layout=compact&theme=radical"/>
+</div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/20/25/76/20257602377b5db30da64d4b38340d85.gif" width="100%" style="border-radius: 10px" alt="Matrix Dark">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Wake+up,+Neo...;Apenas+brincadeira!+Sou+Edgar+Almeida;Dev+ADS+%7C+Python+%7C+C+%7C+Java+%7C+SQL;Entrando+na+Matrix+dos+Dados" alt="Typing SVG Matrix Style" />
 </div>
 
 ---
