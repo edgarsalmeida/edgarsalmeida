@@ -8,6 +8,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por res
 - 🏊‍♂️ Participei da **Piscina da 42 São Paulo**, onde desenvolvi forte resiliência e aprendizado autodidata (e sobrevivi ao Rush01!).
 - 📊 Interesse em Data Analytics, tendo criado dashboards no **Power BI**.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 **Linguagens**
@@ -15,10 +19,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por res
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
 
 **Outros**
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
