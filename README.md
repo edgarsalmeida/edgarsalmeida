@@ -1,6 +1,6 @@
 <div align="center">
   <h1>EDGAR ALMEIDA</h1>
-  <h3>Análise e Desenvolvimento de Sistemas | Software Engineer in Training</h3>
+  <h3>Análise e Desenvolvimento de Sistemas | Cadet @ 42 São Paulo | Software Engineer in Training</h3>
   
   <p>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ &nbsp; ◈ &nbsp; ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
   
@@ -19,7 +19,7 @@
 
 <br>
 
-> **Resumo:** Desenvolvedor em formação com foco em engenharia de software robusta e análise de dados. Minha experiência na **Piscina 42 São Paulo** moldou minha capacidade de resolver problemas complexos com autonomia (C & Shell). Atualmente, estou expandindo minha stack para desenvolvimento mobile e visualização de dados corporativos.
+> **Resumo:** Desenvolvedor em formação com foco em engenharia de software robusta e análise de dados. Como **Cadete na 42 São Paulo**, aprimoro continuamente minha capacidade de resolver problemas complexos com autonomia e peer-to-peer learning (C & Shell). Atualmente, estou expandindo minha stack para desenvolvimento mobile e visualização de dados corporativos.
 
 <br>
 
@@ -59,11 +59,11 @@
 </details>
 
 <details>
-  <summary><b>🏊‍♂️ 42 São Paulo (Piscina)</b></summary>
+  <summary><b>🏊‍♂️ 42 São Paulo (Cadete)</b></summary>
   <br>
   <ul>
-    <li><b>O Desafio:</b> Imersão intensiva de codificação em C sem professores.</li>
-    <li><b>Resultados:</b> Desenvolvimento de shell scripts, manipulação de memória e algoritmos de ordenação.</li>
+    <li><b>A Jornada:</b> Aluno do currículo principal (Core Program) com foco em engenharia de software avançada.</li>
+    <li><b>Base (Piscina):</b> Imersão aprovada com forte desenvolvimento em shell scripts, manipulação de memória e algoritmos de ordenação em C.</li>
   </ul>
 </details>
 
